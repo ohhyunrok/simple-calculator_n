@@ -26,3 +26,4 @@ git --version     # 설치되어 있어야 합니다
 
 위 두 명령이 정상 출력되면 준비 완료입니다.
 "# simple-calculator_n" 
+"# simple-calculator" 
